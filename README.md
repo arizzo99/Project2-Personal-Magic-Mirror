@@ -7,8 +7,8 @@
 For example like your personal info and social media will be logged in so the mirror has the correct credentials to keep up with you weekly, monthly, and yearly.
 
 -It also consists of a sleep log to make sure youre getting a healthy amount of sleep each day.
--
-A cool addition to the mirror is the weather feature.
+
+-A cool addition to the mirror is the weather feature.
 The feature consists of in home residence temp along with outside temperature.
 
 -In my opinion an important feature is a clock for many reasons including a lost phone or even a phone in another room to where you cant know what time it is.
@@ -22,4 +22,5 @@ Making a digital clock in the middle of the screen and making it one of the larg
 
 
 
+![image](https://user-images.githubusercontent.com/78623678/202076986-b8cace7d-86ef-466b-a83a-b0f023fba20d.png)
 
